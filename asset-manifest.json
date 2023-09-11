@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/landing-pagee/static/css/main.478e74e0.css",
-    "main.js": "/landing-pagee/static/js/main.fab2db1a.js",
-    "static/media/fa-solid-900.ttf": "/landing-pagee/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
-    "static/media/fa-brands-400.ttf": "/landing-pagee/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
-    "static/media/fa-solid-900.woff2": "/landing-pagee/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
-    "static/media/fa-brands-400.woff2": "/landing-pagee/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
-    "static/media/fa-regular-400.ttf": "/landing-pagee/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
-    "static/media/cabin.png": "/landing-pagee/static/media/cabin.4417330275f78faa31c3.png",
-    "static/media/circus.png": "/landing-pagee/static/media/circus.494a4a914b5471b41f3e.png",
-    "static/media/game.png": "/landing-pagee/static/media/game.a940b57aa7bab2eacc52.png",
-    "static/media/fa-regular-400.woff2": "/landing-pagee/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
-    "static/media/submarine.png": "/landing-pagee/static/media/submarine.48c9704ca7f8ce901038.png",
-    "static/media/safe.png": "/landing-pagee/static/media/safe.01792c0bdc342bf4bf9c.png",
-    "static/media/cake.png": "/landing-pagee/static/media/cake.6554473016d32b343f02.png",
-    "static/media/avataaars.svg": "/landing-pagee/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
-    "static/media/fa-v4compatibility.ttf": "/landing-pagee/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
-    "static/media/fa-v4compatibility.woff2": "/landing-pagee/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
-    "index.html": "/landing-pagee/index.html",
-    "main.478e74e0.css.map": "/landing-pagee/static/css/main.478e74e0.css.map",
-    "main.fab2db1a.js.map": "/landing-pagee/static/js/main.fab2db1a.js.map"
+    "main.css": "/landing-page/static/css/main.a3179ef0.css",
+    "main.js": "/landing-page/static/js/main.caffda01.js",
+    "static/media/fa-solid-900.ttf": "/landing-page/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/landing-page/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/landing-page/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/landing-page/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/landing-page/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/cabin.png": "/landing-page/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/landing-page/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/landing-page/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/landing-page/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/submarine.png": "/landing-page/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/landing-page/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/landing-page/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/landing-page/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/landing-page/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/landing-page/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/landing-page/index.html",
+    "main.a3179ef0.css.map": "/landing-page/static/css/main.a3179ef0.css.map",
+    "main.caffda01.js.map": "/landing-page/static/js/main.caffda01.js.map"
   },
   "entrypoints": [
-    "static/css/main.478e74e0.css",
-    "static/js/main.fab2db1a.js"
+    "static/css/main.a3179ef0.css",
+    "static/js/main.caffda01.js"
   ]
 }
