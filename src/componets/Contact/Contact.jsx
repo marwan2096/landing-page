@@ -8,7 +8,7 @@ class Contact extends Component {
             <div class="container">
           
                 <div class="row justify-content-center">
-                    <div class="col-lg-8 col-xl-7">
+                    <div class="col-sm-2 col-sm-7">
                     
                         <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                           

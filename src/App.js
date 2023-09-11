@@ -21,17 +21,22 @@ const router = createBrowserRouter([
         path: "",
         element: <Home />,
       },
+      {
+        // Set the empty path to display the "Home" component
+        path: "landing-page",
+        element: <Home />,
+      },
     
       {
-        path: "about",
+        path: "landing-page/about",
         element: <About />,
       },
       {
-        path: "Portfolio",
+        path: "landing-page/Portfolio",
         element: <Portfolio/>,
       },
       {
-        path: "contact",
+        path: "landing-page/contact",
         element: <Contact />,
       },
       {
